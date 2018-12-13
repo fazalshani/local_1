@@ -1,4 +1,4 @@
 add1
-if(y>20){
-SOP(y)
+if(y>20 && x>10){
+SOP("HI");
 }
