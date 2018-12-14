@@ -1,2 +1,5 @@
 ghghkg11166667777
+for each(string i:list){
+sop(i++);
+}
 
