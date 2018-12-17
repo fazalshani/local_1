@@ -1,5 +1,6 @@
 ghghkg11166667777
 for each(string i:list){
+sop("release data")
 sop(i++);
 }
 
